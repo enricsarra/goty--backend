@@ -3,7 +3,7 @@ Proyecto firebase:
 - **firestore-grafic-vote**
 - S'utiliza a goty [https://github.com/enricsarra/goty]
 - utilitzo Postman per provar
-
+- no pujem el directori "environments". (Veure gitignore).
 # Objectiu: 
 Montar servidor rest a "Functions " que permeteix fer peticions a Firebase y actualizar la db a Cloud Firestore.
 # Com s'ha creat
